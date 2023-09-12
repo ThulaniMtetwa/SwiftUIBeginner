@@ -1,2 +1,9 @@
+
 # SwiftUIBeginner
-This project is an intro for me to the SwiftUI framework. 
+The project is an intro to SwiftUI Framework in practice.
+
+The following is done in the project.
+
+ - @State properties are explored. 
+ - Text component is used. 
+ - A picker component is used
